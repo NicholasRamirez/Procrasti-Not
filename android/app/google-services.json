@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771279922896",
+    "project_id": "flutter-firebase-procrastinot",
+    "storage_bucket": "flutter-firebase-procrastinot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771279922896:android:0045257f85e2ecd215a0d5",
+        "android_client_info": {
+          "package_name": "com.tenndo.procrasti_not"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771279922896-ftg5dhsd4b0ne1pfp423m3q2siia3ct4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9UfrSV3mCYpdRv-UsfDajoRAfLC542PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771279922896-ftg5dhsd4b0ne1pfp423m3q2siia3ct4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
